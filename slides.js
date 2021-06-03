@@ -1,10 +1,10 @@
 const paintings = [
-  { src: "https://www.si.edu/object/silver-goblet:npg_NPG.72.24", title: "1 / 6" },
-  { src: "image2.jpg", title: "2 / 6" },
-  { src: "image3.jpg", title: "3 / 6" },
-  { src: "image4.jpg", title: "4 / 6" },
-  { src: "image5.jpg", title: "5 / 6" },
-  { src: "image6.jpg", title: "6 / 6" }
+  { src: "algo.png", title: "1 / 6" },
+  { src: "botanica.png", title: "2 / 6" },
+  { src: "shifting.png", title: "3 / 6" },
+  { src: "narci.png", title: "4 / 6" },
+  { src: "replace1.png", title: "5 / 6" },
+  { src: "replace2.png", title: "6 / 6" }
 ]
 
 const prevTag = document.querySelector("nav a.prev")
